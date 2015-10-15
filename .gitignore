@@ -1,0 +1,19 @@
+# Gitignore
+
+.idea/
+
+# Images
+*.jpg
+*.JPG
+*.png
+
+# caffe
+*.caffemodel
+
+# matlab
+*.mex*
+
+# Compressed files
+*.gz
+*.tar
+*.zip
